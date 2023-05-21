@@ -13,5 +13,5 @@
 10. On the left side of the window, select "Select All", then "Check for Kexts updates", then "Update Kexts" (This only appears if any Kext updates are possible)
 11. Click Start Sync. The window disappears and the message appears "Successfully synced to OpenCore x.x.x"; click OK.
 12. Click **File/Save**.  Your EFI config.plist is now saved, updated, and valid. 
-13. If the icon to the right of the floppy disk is red, click it to see and identy any problems.  Correct any problems, then save again to finalize your config.plist. 
+13. If the icon to the right of the floppy disk is red, click it to see and identify any problems.  Correct any problems, then save again to finalize your config.plist.  For example, to upgrade to OC92, one must type "Auto" in a field in one of the sections within the OCAT tool.
 14. All done!  Test your new EFI with the latest OpenCore in place! 

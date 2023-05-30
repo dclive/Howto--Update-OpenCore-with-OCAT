@@ -1,5 +1,5 @@
 # Howto: Update OpenCore with OCAT
- This is just a quick guide, to inform newbies how to update OpenCore using OCAT.  Keep in mind:  You should do this on a backup USB stick, so that if something bad happens, your main SSD will still be bootable.  You've been warned.  
+ This is a quick guide, to inform newbies how to update OpenCore using OCAT.  Keep in mind:  You should do this on a backup USB stick, so that if something bad happens, your main SSD will still be bootable.  You've been warned.  
 
 1. **Download:**  Download OCAT from https://github.com/ic005k/OCAuxiliaryTools - Click RELEASES and download the latest release for your OS.  Typically that will be OCAT_Mac.dmg. 
 2. **Mount and Copy:**  After downloading the OCAT_Mac.dmg file, open and mount the DMG file, and drag the OCAT file ("OCAuxilliaryTools") to your Mac's \Applications directory. 

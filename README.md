@@ -5,8 +5,8 @@
 2. **Mount and Copy:**  After downloading the OCAT_Mac.dmg file, open and mount the DMG file, and drag the OCAT file ("OCAuxilliaryTools") to your Mac's \Applications directory. 
 3. **Get past Gatekeeper security checks:**  Right-Click on the file \Applications\OCAuxilliaryTools and select OPEN.  Select "OPEN" at the 'macOS cannot verify...' prompt. 
 4. OCAT opens. 
-5. **All steps following assume you have a working Hackintosh with an EFI setup that's already copied to your SSD's EPS (EFI) partition.  You could also do these steps on a USB stick with an EPS (EFI) partition.**
-6. In OCAT, go to **Edit/Mount ESP**.  At the Mount ESP partition prompt, select your SSD's EPS partition.  Click 'Mount and open Config.plist' and your current config.plist opens. 
+5. **All steps following assume you have a working Hackintosh with an EFI setup that's already copied to your USB's EPS (EFI) partition.**
+6. In OCAT, go to **Edit/Mount ESP**.  At the Mount ESP partition prompt, select your USB's EPS (EFI) partition.  Click 'Mount and open Config.plist' and your current config.plist opens. 
 7. Select **Edit/Update OpenCore and Kexts**. 
 8. The 'Sync OC -> x.x.x' window appears. 
 9. Click "Get the latest version of OpenCore", and click OK at the successfully updated prompt.
